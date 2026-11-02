@@ -1,6 +1,8 @@
+alt="GitHub banner · 1280×640@2x" src="https://github.com/user-attachments/assets/692f5d5c-7b07-42ec-ad76-b04055a47895" />
 🚀 Yeni projem yayında: ASP.NET Core 9 MVC ile dinamik Portfolyo Sitesi ve Admin Paneli
 
-Udemy'de Murat Yücedağ hocamın portfolyo projesi eğitimini takip ederek kendi kişisel portfolyo sitemi geliştirdim. Sayfadaki tüm içerik veritabanından geliyor ve bir yönetim paneli üzerinden yönetilebiliyor.
+Udemy'de Murat Yücedağ hocamın portfolyo projesi eğitimini takip ederek kendi kişisel portfolyo sitemi geliştirdim. Sayfadaki tüm içerik veritabanından geliyor ve bir yönetim paneli<img width="2560" height="1280" 
+ üzerinden yönetilebiliyor.
 
 🔹 Sitede neler var?
 • Hakkımda, Yetenekler ve Deneyimler bölümleri
